@@ -5,4 +5,4 @@
 ### [Experiment 4](https://github.com/vedkcoder/NLP/blob/d2038fb2afd0f85a495231ca5f68b7cd2b35456a/EXP%204%20Porter%20Stemmer.txt) - Data pre-processing with tokenization using nltk library in python.
 ### [Experiment 5](https://github.com/vedkcoder/NLP/blob/d2038fb2afd0f85a495231ca5f68b7cd2b35456a/EXP%205%20POS%20Tagging.txt) - Data pre-processing with tokenization using nltk library in python.
 ### [Experiment 6](https://github.com/vedkcoder/NLP/blob/d2038fb2afd0f85a495231ca5f68b7cd2b35456a/EXP%206%20Named%20Entity%20Recognition.txt) - Data pre-processing with tokenization using nltk library in python.
-### [NLP Mini Project](https://github.com/vedkcoder/NLP/blob/d2038fb2afd0f85a495231ca5f68b7cd2b35456a/EXP%204%20Porter%20Stemmer.txt) - Data pre-processing with tokenization using nltk library in python.
+### [NLP Mini Project Report](https://github.com/vedkcoder/NLP/blob/d2038fb2afd0f85a495231ca5f68b7cd2b35456a/EXP%204%20Porter%20Stemmer.txt) - Data pre-processing with tokenization using nltk library in python.
